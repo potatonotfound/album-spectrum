@@ -54,4 +54,5 @@ All settings live in `config.json`:
 
 ## Usage
 
-Use `main.exe` executable to run the program. Once run, the program will automatically generate the final grid image based on its input and configuration settings in `config.json`
+Unzip the `album-spectrum.zip` file and run main.py.
+You will likely need to install all the relevant libraries needed for the main.py file which are found at the top with the imports.
