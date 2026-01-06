@@ -1,0 +1,7 @@
+{
+    "input_directory": "./images/original",
+    "output_directory": "./final",
+    "ordering_directory": "./images/new",
+    "resolution": 500,
+    "ordered": true
+}
